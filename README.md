@@ -40,4 +40,6 @@ The system utilizes a Python dictionary-based inventory for fast lookups:
 
 **Reg No.: 25BOE10025**
 
-**course: B tech. Bioengineering**
+**course: Python Essentials**
+
+**Branch: B tech. Bioengineering**
